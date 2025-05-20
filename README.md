@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive `README.md` for your Python-based email automation project. This README follows best practices to ensure clarity and ease of use for future users and contributors.
-
----
-
 # 📧 Email Automation System
 
 A Python application that automates sending personalized emails with optional attachments, sourcing recipient data from a Google Sheet. Designed for scalability and ease of use, this tool is ideal for outreach campaigns, newsletters, and more.
@@ -126,7 +122,3 @@ This project is licensed under the [MIT License](LICENSE).
 * [gspread](https://github.com/burnash/gspread) for Google Sheets API integration
 * [yagmail](https://github.com/kootenpv/yagmail) for simplified Gmail SMTP handling
 * [pywebview](https://github.com/r0x0r/pywebview) for the GUI interface
-
----
-
-Feel free to customize this README further to match your project's specifics. If you need assistance with any part of the setup or customization, don't hesitate to ask!
