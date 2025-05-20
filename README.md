@@ -2,7 +2,7 @@
 
 A Python application that automates sending personalized emails with optional attachments, sourcing recipient data from a Google Sheet. Designed for scalability and ease of use, this tool is ideal for outreach campaigns, newsletters, and more.
 
----
+
 
 ## 🚀 Features
 
@@ -12,7 +12,6 @@ A Python application that automates sending personalized emails with optional at
 * **Secure Authentication**: Utilizes environment variables and supports Gmail App Passwords for enhanced security.
 * **User-Friendly Interface**: Built with `pywebview` for a native GUI experience.
 
----
 
 ## 📋 Prerequisites
 
@@ -24,7 +23,7 @@ A Python application that automates sending personalized emails with optional at
   * **Google Drive API** enabled
 * A service account with access to the target Google Sheet
 
----
+
 
 ## 🔧 Installation
 
@@ -66,7 +65,7 @@ A Python application that automates sending personalized emails with optional at
    * Download the `credentials.json` file and place it in the project root.
    * Share your Google Sheet with the service account's email address.
 
----
+
 
 ## 🚀 Usage
 
@@ -82,7 +81,7 @@ The script will:
 2. Retrieve recipient data from the specified Google Sheet.
 3. Send personalized emails to each recipient, including attachments if specified.
 
----
+
 
 ## 📝 Customization
 
@@ -90,7 +89,7 @@ The script will:
 * **Subject Line**: Adjust the `subject` variable to suit your campaign.
 * **Attachment**: Update the `ATTACHMENT_PATH` in your `.env` file to include different files.
 
----
+
 
 ## 📁 Project Structure
 
@@ -103,19 +102,19 @@ email-automation-system/
 └── README.md
 ```
 
----
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
----
+
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+
 
 ## 🙏 Acknowledgements
 
